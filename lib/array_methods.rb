@@ -1,3 +1,24 @@
+def using_include(array, element)
+end 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # def using_include(array, element)
 #
 # end
